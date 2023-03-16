@@ -1,0 +1,26 @@
+#imagen{
+    max-width: 100%;
+    max-height: 100%;
+    left:100px;
+    width: 10rem;
+}
+
+*{
+    background-color: lightgray;
+}
+
+a{
+    color: #000;
+  }
+  a:link{
+    text-decoration: none;
+  }
+  a:hover {
+    color: #1717FF;
+    cursor: pointer;
+  }
+.extra{
+    color:black;
+    font-family:cursive;
+    text-shadow:0em 15px 10px rgb(86, 25, 160);
+}
